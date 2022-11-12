@@ -1,1 +1,3 @@
-![Logo](seasurv-seabrokers-logo.png)
+<picture>
+ <img alt="Logo" src="seasurv-seabrokers-logo.png">
+</picture>
